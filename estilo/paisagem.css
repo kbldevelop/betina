@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+
+header nav {
+    text-align: center;
+}
+
+header h1 {
+    display: block;
+    margin: auto;
+    font-size: 65px;
+}
+
+header h2 {
+    display: block;
+    margin: auto;
+    font-size: 25px;
+}
+
+header div#bot1 {
+    display: block;
+    margin: auto;
+    width: 200px;
+    margin-left: 250px;
+    
+}
+
+header input.botao1 {
+    width: 200px;
+    font-size: 20px;
+}
+
+/*----- Conteudo 1 sobre -----*/
+
+
+section.conteudo1 img {
+    display: none;
+}
+
+section.conteudo1 div.sobre {
+    display: block;
+    text-align: center;
+}
+
+div#bot2 {
+    display: block;
+    margin: auto;
+    margin-top: 130px;
+}
+
+/*----- conteudo 2 fotos -----*/
+
+section.conteudo2 div.fotos2 {
+    display: none;
+}
+
+/*----- conteudo 3 videos -----*/
+
+div#bot4 {
+    margin-top: 450px;
+}
+
+
+
+/*----- conteudo 4 -----*/
+

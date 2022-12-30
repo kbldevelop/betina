@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-image: url(../Site\ Betina/imagens/Capturar.PNG.png);
+    background-color: rgba(128, 128, 128, 0.466);  
+    background-position: right;
+    background-attachment: fixed;
+}
+
